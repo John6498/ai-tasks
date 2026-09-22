@@ -95,7 +95,7 @@ While it's not always perfect, this method has proven to be a very reliable way 
 
 1. **Clone or Download:** Get these `.md` files into your project or a central location where your AI tool can access them.
    ```bash
-   git clone https://github.com/snarktank/ai-dev-tasks.git
+   git clone https://github.com/John6498/ai-tasks.git
    ```
 2. **Follow the Workflow:** Systematically use the `.md` files in your AI assistant as described in the workflow above.
 3. **Adapt and Iterate:**
